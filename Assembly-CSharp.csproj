@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4c18899f-6be5-b578-18a6-50d15577e942}</ProjectGuid>
+    <ProjectGuid>{d49569a6-8d21-386b-58d1-f908d0e3ca25}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -286,10 +286,10 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.2.0f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/PackageCache/com.unity.visualscripting@1.7.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/PackageCache/com.unity.visualscripting@1.7.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.iOS.Extensions.Xcode">
      <HintPath>/Applications/Unity/Hub/Editor/2021.2.0f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -670,58 +670,58 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.2.0f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Welcome.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.Welcome.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.Welcome.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>/Users/UnityProject/CloudBuildPlasticTest/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>/Users/UnityProject/CloudBuildGit/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
